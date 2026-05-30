@@ -79,13 +79,6 @@
 ✓ IT Infrastructure
 ```
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=khatrihanish&theme=algolia&margin-w=10" />
-</p>
 
 ---
 
