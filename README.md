@@ -31,7 +31,7 @@
 
 <p align="left">
 <a href="https://linkedin.com" target="_blank">
-<img src="www.linkedin.com/in/hanish-khatri-09107418" />
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="https://instagram.com" target="_blank">
