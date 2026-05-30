@@ -21,7 +21,7 @@
 
 ## 🌐 Portfolio & Contact
 
-- 🌍 Portfolio: **https://your-portfolio.com**
+//- 🌍 Portfolio: **https://your-portfolio.com**//
 - 📧 Email: **KhatriHnaish26@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/your-profile**
 - 🐙 GitHub: **https://github.com/khatrihanish**
