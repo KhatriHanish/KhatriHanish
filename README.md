@@ -81,22 +81,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khatrihanish&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khatrihanish&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khatrihanish&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
