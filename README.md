@@ -38,10 +38,6 @@
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://youtube.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=youtube" />
-</a>
-
 <a href="https://twitter.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
