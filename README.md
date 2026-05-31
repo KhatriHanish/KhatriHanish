@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me
 
 - 🔭 Currently working in **IT Infrastructure & Technical Support**
-- 🌱 Learning **Cyber Security, Linux Administration & Cloud Computing**
-- 💻 Passionate about **Web Development & Automation**
+- 🌱 Learning **Cyber Security, Systems Administration & Cloud Computing**
+- 💻 Passionate about **Web Development & Python**
 - 📝 I enjoy creating technical content and tutorials
 - 🚀 Always exploring new technologies
 - 🇮🇳 Based in India
