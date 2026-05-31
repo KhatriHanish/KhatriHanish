@@ -66,11 +66,10 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
 </p>
----
 
 ## 🚀 Current Focus
-```text
 
+```text
 ✓ IT Infrastructure
 ✓ Web Development
 ✓ Cyber Security
