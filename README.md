@@ -66,21 +66,16 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,linux" />
 </p>
-
 ---
 
 ## 🚀 Current Focus
 
 ```text
+✓ IT Infrastructure
 ✓ Web Development
 ✓ Cyber Security
-✓ Linux Administration
 ✓ Cloud Technologies
-✓ IT Infrastructure
 ```
-
-
----
 
 ## 📈 Profile Views
 
@@ -88,12 +83,4 @@
 <img src="https://komarev.com/ghpvc/?username=khatrihanish&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
----
 
-## 💡 Quote
-
-> "Technology is best when it brings people together."
-
----
-
-<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3>
