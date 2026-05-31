@@ -64,13 +64,13 @@
 
 ### Tools & Platforms
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
 </p>
 ---
 
 ## 🚀 Current Focus
-
 ```text
+
 ✓ IT Infrastructure
 ✓ Web Development
 ✓ Cyber Security
