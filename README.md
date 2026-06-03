@@ -1,61 +1,67 @@
 <h1 align="center">Hi 👋, I'm Hanish Khatri</h1>
 
 <h3 align="center">
-💻 IT Support Engineer | 🌐 Web Developer | ☁️ Cloud Enthusiast
+💻 IT Support Engineer | 🌐 Web Developer | ☁️ Cloud Enthusiast | 🔐 Cyber Security Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=IT+Support+Engineer;Web+Developer;Cyber+Security+Learner;Cloud+Technology+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=IT+Support+Engineer;Web+Developer;Network+Engineer;Cyber+Security+Learner;Cloud+Technology+Enthusiast" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working in IT Infrastructure & Technical Support
-- 🌱 Learning Cyber Security, Cloud & System Administration
-- 💻 Passionate about Web Development
-- 🚀 Always exploring new technologies
-- 🇮🇳 Based in India
-
----
-## 🔗 Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hanish-khatri-09107418" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  
-  <a href="https://www.instagram.com/khatrihanish" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
-  </a>
-
-</p>
-
-## 🛠️ Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+🔹 IT Infrastructure & Technical Support Professional  
+🔹 Learning Cyber Security, Cloud Computing & DevOps  
+🔹 Passionate about Web Development and Automation  
+🔹 Exploring Linux, Networking & System Administration  
+🔹 Based in India 🇮🇳
 
 ---
 
-## 🎯 Current Focus
+## 🎯 2026 Goals
 
-```text
-☁️ Cloud Technologies
-🔐 Cyber Security
-🌐 Web Development
-🖥️ IT Infrastructure
+- ☁️ AWS Cloud Practitioner
+- 🐳 Docker & Kubernetes
+- 🔐 Cyber Security Fundamentals
+- ⚙️ DevOps Tools
+- 🌐 Full Stack Web Development
+
+---
+
+## 🏆 Certifications
+
+- Microsoft / AWS / Cisco Certifications (Add yours here)
+- IT Support & Networking Certifications
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+Personal portfolio built with HTML, CSS & JavaScript
+
+### 🖥️ IT Support Toolkit
+Useful scripts and troubleshooting resources
+
+### 🔐 Cyber Security Labs
+Hands-on security learning projects
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhatriHanish&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhatriHanish&layout=compact&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+💼 LinkedIn: Your LinkedIn URL
+
+📧 Email: Your Email
+
+🌐 GitHub: https://github.com/KhatriHanish
