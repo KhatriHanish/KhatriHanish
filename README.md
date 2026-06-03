@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hanish Khatri</h1>
+<h1 align="center">Hi 👋, I'm Khatri Hanish</h1>
 
 <h3 align="center">
 💻 IT Support Engineer | 🌐 Web Developer | ☁️ Cloud Enthusiast
