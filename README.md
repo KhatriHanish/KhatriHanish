@@ -19,6 +19,21 @@
 - 🇮🇳 Based in India
 
 ---
+## 🔗 Socials
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  
+  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+
+  <a href="https://t.me/YOUR_USERNAME" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="40" />
+  </a>
+</p>
 
 ## 🛠️ Tech Stack
 
