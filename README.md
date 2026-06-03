@@ -22,7 +22,7 @@
 ## 🔗 Socials
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/hanish-khatri-09107418" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   
