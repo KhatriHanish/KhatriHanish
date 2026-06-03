@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   
-  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.instagram.com/khatrihanish" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 
