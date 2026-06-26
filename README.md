@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khatri Hanish</h1>
 
 <h3 align="center">
-💻 IT Support Engineer | 🌐 Web Developer | ☁️ Cloud Enthusiast
+💻 IT Support Engineer | 🌐 Web Developer 
 </h3>
 
 <p align="center">
